@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\bin\Debug\ClientContactList.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\bin\Debug\ClientContactList.exe
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\bin\Debug\ClientContactList.pdb
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.exe
+c:\users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.pdb
+C:\Users\danie\documents\visual studio 2015\Projects\ClientContactList\ClientContactList\obj\Debug\ClientContactList.csprojResolveAssemblyReference.cache
